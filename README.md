@@ -5,5 +5,7 @@ The objective in this exercise is to minimize the total costs per year associate
 # Installation of the required Libraries 
 - pip install pulp - for optimization 
 - pip install numpy - for numerical operations
+- from ortools.sat.python import cp_model
+
 
 
